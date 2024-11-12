@@ -1,2 +1,2 @@
-# Megaline-telecomunicaciones
+# Analisis de datos para Megaline-telecomunicaciones
 Analizar el comportamiento de los clientes y determinar qué tarifa de prepago genera más ingresos.
